@@ -1,0 +1,13 @@
+{
+  "name": "@kraft.stitch/basspack",
+  "version": "1.0.1",
+  "description": "A lightweight, modular, utility-first CSS framework.",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/ks-services-xyz/csspack-community.git"
+  },
+  "main": "css-pack.min.css",
+  "files": [
+    "css-pack.min.css"
+  ]
+}
