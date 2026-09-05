@@ -1,6 +1,7 @@
 {
   "name": "@kraft.stitch/basspack",
   "version": "1.0.1",
+  "license": "MIT",
   "description": "A lightweight, modular, utility-first CSS framework.",
    "repository": {
     "type": "git",
