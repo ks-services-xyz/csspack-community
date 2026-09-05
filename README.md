@@ -169,4 +169,4 @@ If you find KSPack useful, consider giving the project a ⭐ on GitHub.
 
 Your feedback, suggestions, and contributions help improve KSPack.
 
-**Made with ❤️ by KSPack**
+**Made with ❤️ by @kraft.stitch**
